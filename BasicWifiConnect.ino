@@ -1,7 +1,7 @@
 #include "ESP8266WiFi.h"
 
-const char* ssid = "SKY9DA59";
-const char* pswd = "chuychien";
+const char* ssid = "********";
+const char* pswd = "********";
 
 void setup() {
   // put your setup code here, to run once:
